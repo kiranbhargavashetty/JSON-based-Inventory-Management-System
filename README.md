@@ -17,3 +17,5 @@ Purchase details--->Here,we can see the purchase made by the customer and it giv
 SALES details--->This section contains the details of the sales made and useful to provide bill for purchase made.
 
 So, This is the overall brief description of the project.This project can be enhanced in future by adding some more functionalities to the project like , by providing discounts on the products, by applying offers on the special days,by adding tax,by adding the section to count the Profit made in a day so on. .....
+
+https://kiranbhargavashetty.github.io/JSON-based-Inventory-Management-System/    ------ Please find the link for this project
